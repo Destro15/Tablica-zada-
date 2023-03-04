@@ -8,10 +8,9 @@ html {
 
 .body {
     max-width: 962px;
-    width: 20px auto;
     font-family: 'Chakra Petch', sans-serif;
     font-family: 'Roboto Condensed', sans-serif;
     font-family: 'Rubik', sans-serif;
-    background-color: rgb(148, 148, 148);
-    text-align: center;
+    background-color: rgb(194, 194, 194);
+    margin: 20px auto;
 }

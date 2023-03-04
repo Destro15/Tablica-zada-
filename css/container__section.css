@@ -1,0 +1,7 @@
+.container__section {
+    display: flex;
+    background-color: rgb(241, 241, 241);
+    padding: 11px;
+    border:  solid;
+    font-size: 17px;
+}
